@@ -1,0 +1,29 @@
+.header{background-color:#e69111d8; 
+    height: 500px; 
+    width: 500px;
+    }
+    
+    .header .container{height: 50%; 
+    width: 50%; 
+    float: left;
+    }
+    
+    .header .container .dentro{background-color:#e61111d8; 
+    color:#ffffff; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold; 
+    float: left;
+    }
+    
+    #divpai_d{background-color:rgb(17, 152, 230, 0.89); 
+    width: 50%; 
+    height: 50vh; 
+    float: left;
+    }
+    
+    #divfilho_e{background-color:rgba(230, 17, 17, 0.89); 
+    height: 50%; 
+    width: 75vw; 
+    float: left;
+    }
