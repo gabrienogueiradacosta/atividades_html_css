@@ -1,0 +1,33 @@
+#ex_3{
+    background-color: #807c7c;
+}
+
+.pai_ex3{
+    background-color: #fff;
+    height: 500px;
+    width: 50%;
+    border: dotted 5px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.filho_ex3{
+    background-color: #ffff23d3;
+    width: 30%;
+    height: 50px;
+}
+
+.filho2_ex3{
+    background-color: rgb(228, 125, 7);
+    height: 100px;
+    width: 30%;
+}
+
+.filho3_ex3{
+    background-color: rgb(35, 119, 35);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+}
